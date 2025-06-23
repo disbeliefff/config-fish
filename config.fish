@@ -1,4 +1,4 @@
-source ~/.config/fish/aliases.fish
+source ~/.config/fish/aliases/aliases.fish
 
 
 set -x GOPATH $HOME/go
